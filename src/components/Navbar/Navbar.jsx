@@ -3,7 +3,7 @@ import './Navbar.css'
 import logo from '../../assets/logo.png'
 import search_icon from '../../assets/search_icon.svg'
 import bell_icon from '../../assets/bell_icon.svg'
-import Profile_img from '../../assets/Profile_img.png'
+import Profile_img from '../../assets/profile_img.png'
 import caret_icon from '../../assets/caret_icon.svg'
 import { logout } from '../../firebase'
 
