@@ -15,7 +15,7 @@ A fully responsive **Netflix Clone** built with **React.js**, **Firebase**, and 
 🔗 [Live Project](netflix-clone-iota-cyan.vercel.app)  
 
 ## 📸 Screenshots  
-![Netflix Clone Preview](https://imgur.com/a/0I1c6nR)  
+![Netflix Clone Preview](https://github.com/user-attachments/assets/e7f46184-6f67-4923-a684-9a9bf271a59b)  
 
 ## 🛠 Tech Stack  
 - **Frontend:** React.js (Hooks, Context API)  
