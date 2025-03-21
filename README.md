@@ -31,7 +31,7 @@ A fully responsive **Netflix Clone** built with **React.js**, **Firebase**, and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/netflix-clone.git
+git clone https://github.com/bassant-salem/Netflix-Clone.git
 
 # Navigate into the project directory
 cd netflix-clone
